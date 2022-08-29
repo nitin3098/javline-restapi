@@ -6,5 +6,5 @@ we can update a players data by path method
 we can also delete players by delete method
 
 this rest api is deployed at heroku
-this is the link  - https://javlinerestapi.herokuapp.com/
-To get all players go to this link -  https://javlinerestapi.herokuapp.com/javline
+
+To get all players go to this link -  https://restapi-javline.herokuapp.com/javline
